@@ -1,1 +1,2 @@
-# DataScience
+# Deep Learning Specialization practices
+
